@@ -1,6 +1,23 @@
-**Monitor** อุปกรณ์   
+***
+
+![zabbix_course](https://user-images.githubusercontent.com/87377798/211203255-d19edcb1-f6cf-42db-beda-9dfbaf63538a.png)
+
+# การติดตั้ง การใช้งาน และการอ่านผลของเครื่องมือ Zabbix
+
+***
+## ขั้นตอนที่ 1 - Create Ct สำหรับเตรียมติดตั้ง Server ของ Zabbix
+## ขั้นตอนที่ 2 - Setup และ Config Zabbix
+## ขั้นตอนที่ 3 - Implement Zabbix โดนใช้ SNMP 
+## ขั้นตอนที่ 4 - Monitor อุปกรณ์
+## ขั้นตอนที่ 5 - การแจ้งเตือน (ผ่าน Outlook365) 
+ 
+***
+
+![323349242_3367566253515291_5797434817281545862_n](https://user-images.githubusercontent.com/87377798/211203719-2ae05f21-bd9e-4a69-baf5-f57691d327ea.png)
+
+# 4.**Monitor** อุปกรณ์   
 ขั้นตอน   
-1.เลื่อก **Map**  
+1.เลื่อก **Map**
 ![image](https://user-images.githubusercontent.com/119165533/211201693-0313012f-dc35-49c5-90d1-8a4fa90c2011.png)  
 2.กดเลือก **All map** และเลือก **Local network**  
 -สามารถกำหนดขนาดได้ที่ **properties**  
@@ -32,7 +49,7 @@
 ![image](https://user-images.githubusercontent.com/119165533/211202799-92823d5c-3ee1-4c06-a083-c55573b66ba7.png)  
   
   
-**การแจ้งเตื่อน (ผ่าน Outlook365)**  
+# 5.**การแจ้งเตือน (ผ่าน Outlook365)**  
 1.กดเลือก **User setting**  
 ![image](https://user-images.githubusercontent.com/119165533/211202928-aa3105c5-4e1c-4f30-b2b1-fd2ff3d2bd78.png)  
 2.ตั้งค่า **User,Media,Messaging**  
