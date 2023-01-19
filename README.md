@@ -412,6 +412,16 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
    <img src="https://user-images.githubusercontent.com/119165533/211203598-fda342a7-2aab-4a45-95df-01c0a16ee9d2.png" width="700">
 </div>
 
+***
+
+## จัดทำโดย 
+
+### นายศิวกร กาญธนะบัตร scpn021 116310462002-1
+###
+###
+###
+
+***
 
 
 
