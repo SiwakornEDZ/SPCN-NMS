@@ -8,9 +8,9 @@
 ## ขั้นตอนที่ 1 - Create Ct สำหรับเตรียมติดตั้ง Server ของ Zabbix
 ## ขั้นตอนที่ 2 - Setup และ Config Zabbix
 ## ขั้นตอนที่ 3 - Implement Zabbix โดนใช้ SNMP 
-## ขั้นตอนที่ 5 - Monitor อุปกรณ์
-## ขั้นตอนที่ 6 - การแจ้งเตือน (ผ่าน Outlook365) 
-## ขั้นตอนที่ 7 - การอ่านผลเครื่องมือ
+## ขั้นตอนที่ 4 - Monitor อุปกรณ์
+## ขั้นตอนที่ 5 - การแจ้งเตือน (ผ่าน Outlook365) 
+## ขั้นตอนที่ 6 - การอ่านผลเครื่องมือ
 
  
 ***
@@ -168,7 +168,7 @@ nano /etc/zabbix/zabbix_server.conf
 
 ***
 
-## 3.Implement Zabbix โดนใช้ SNMP
+## ขั้นตอนที่ 3 - Implement Zabbix โดนใช้ SNMP
 
 ```
 apt-get update
@@ -252,7 +252,7 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
 
 ***
 
-# 4.**Monitor** อุปกรณ์   
+# ขั้นตอนที่ 4 - Monitor อุปกรณ์  
  **ขั้นตอน**   
 1.เลือก **Map**
 
@@ -335,7 +335,7 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
    <img src="https://user-images.githubusercontent.com/119165533/211202799-92823d5c-3ee1-4c06-a083-c55573b66ba7.png" width="700">
 </div>
   
-# 5.**การแจ้งเตือน (ผ่าน Outlook365)**  
+# ขั้นตอนที่ 5 - การแจ้งเตือน (ผ่าน Outlook365) 
 1.กดเลือก **User setting**  
 
 <div align="center">
@@ -413,6 +413,32 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
 <div align="center">
    <img src="https://user-images.githubusercontent.com/119165533/211203598-fda342a7-2aab-4a45-95df-01c0a16ee9d2.png" width="700">
 </div>
+ 
+ ## ขั้นตอนที่ 6 - การอ่านผลเครื่องมือ
+ <div align="center">
+   <img src="https://user-images.githubusercontent.com/110905426/213648096-67f0a9ad-e2d1-463d-b0df-b37b5a575a68.png" width="700">
+</div>
+ 
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/110905426/213649046-9487003d-c191-4c2e-9a5b-d4f195481646.png" width="700">
+</div>
+ 
+ <div align="center">
+   <img src="https://user-images.githubusercontent.com/110905426/213649257-7a60be4f-a4b5-4799-93a7-0db7bbff877f.png" width="700">
+</div>
+ 
+ <div align="center">
+   <img src="https://user-images.githubusercontent.com/110905426/213649354-880f0e1e-3a86-443d-b708-1249100b6388.png" width="700">
+</div>  
+ 
+  <div align="center"
+   <img src="https://user-images.githubusercontent.com/110905426/213649450-1b9bd15e-72c6-4750-9f01-e471b311288a.png" width="700">
+</div> 
+ 
+ 
+
+
+
 
 ***
 
