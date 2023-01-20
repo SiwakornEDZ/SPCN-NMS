@@ -22,14 +22,14 @@
 <a name="step1"></a>
 ## ขั้นตอนที่ 1 - Create Ct สำหรับเตรียมติดตั้ง Server ของ Zabbix
 
-## กำหนดชื่อ กำหนดรหัสผ่าน และSSH KEY 
+## 1.1 กำหนดชื่อ กำหนดรหัสผ่าน และSSH KEY 
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/87377798/211203719-2ae05f21-bd9e-4a69-baf5-f57691d327ea.png" width="700">
 </div> 
  
 
-## เลือก os ที่ต้องการ
+## 1.2 เลือก os ที่ต้องการ
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/87377798/211204548-b63faece-9c4a-4e44-979d-07ad4cfb844b.png" width="700">
@@ -37,14 +37,14 @@
  
 
 
-## กำหนดขนาดของ Storage ของ Server
+## 1.3 กำหนดขนาดของ Storage ของ Server
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/87377798/211204592-fdeeba36-8708-4637-9da7-c7bbdeb8de33.png" width="700">
 </div> 
  
  
-## กำหนดจำนวน cpu ของ Server
+## 1.4 กำหนดจำนวน cpu ของ Server
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/87377798/211204625-b46a95ae-0d5e-4d4b-9e9d-4203ebf1d9ed.png" width="700">
@@ -52,7 +52,7 @@
 
 
 
-## กำหนดจำนวน RAM และ SWAP
+## 1.5 กำหนดจำนวน RAM และ SWAP
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/87377798/211204690-5e2e8b57-a388-4fd7-8690-aed7099ba1ae.png" width="700">
@@ -60,14 +60,14 @@
 
 
 
-## กำหนด address ipv4 
+## 1.6 กำหนด address ipv4 
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/87377798/211204720-91cba0dc-971f-4458-ae1c-9932a58b07bb.png" width="700">
 </div> 
 
 
-## กำหนด DNS 
+## 1.7 กำหนด DNS 
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/87377798/211204860-435ef51a-0ae8-40a1-a67a-bb0cfd25fb9f.png" width="700">
