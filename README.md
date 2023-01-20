@@ -585,7 +585,7 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
 | นายศิวกร กาญธนะบัตร   | scpn021  | 116310462002-1 |https://github.com/SiwakornEDZ| 
 | นางสาวฉัตรพร แก้วเฉลิม  | spcn07  |116310400245-1|https://github.com/Pinchattaporn|
 | นายรพีพัฒน์ พรมฮวด	 | spcn14    |116310400423-4| https://github.com/RPTitle2002  |
-| นายปิยะ หลามสกุล  |  spcn27     |116310462023-7|   |
+| นายปิยะ หลามสกุล  |  spcn27     |116310462023-7| https://github.com/topscrapperr |
 
 
 
