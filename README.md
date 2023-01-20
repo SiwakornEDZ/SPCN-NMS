@@ -275,8 +275,9 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
 ![Screenshot 2023-01-08 231127](https://user-images.githubusercontent.com/87377798/211207101-2101acdb-fae4-42a0-ab2f-68293abfd0f8.png)
 
 ***
+ 
 <a name="step4"></a>
-# ขั้นตอนที่ 4 - Monitor อุปกรณ์  
+## ขั้นตอนที่ 4 - Monitor อุปกรณ์  
  **ขั้นตอน**   
 1.เลือก **Map**
 
@@ -358,8 +359,9 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
 <div align="center">
    <img src="https://user-images.githubusercontent.com/119165533/211202799-92823d5c-3ee1-4c06-a083-c55573b66ba7.png" width="700">
 </div>
+
 <a name="step5"></a>
-# ขั้นตอนที่ 5 - การแจ้งเตือน (ผ่าน Outlook365) 
+## ขั้นตอนที่ 5 - การแจ้งเตือน (ผ่าน Outlook365) 
 1.กดเลือก **User setting**  
 
 <div align="center">
@@ -437,6 +439,7 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
 <div align="center">
    <img src="https://user-images.githubusercontent.com/119165533/211203598-fda342a7-2aab-4a45-95df-01c0a16ee9d2.png" width="700">
 </div>
+ 
  <a name="step6"></a>
  ## ขั้นตอนที่ 6 - การอ่านผลเครื่องมือ
  
