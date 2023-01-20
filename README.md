@@ -1,7 +1,7 @@
 ***
 
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/87377798/211203255-d19edcb1-f6cf-42db-beda-9dfbaf63538a.png" width="700">
+   <img src="https://user-images.githubusercontent.com/87377798/211203255-d19edcb1-f6cf-42db-beda-9dfbaf63538a.png" width="900">
 </div> 
 
 
