@@ -260,16 +260,26 @@ service snmpd restart
 snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
 ```
 ***
-
-## กำหนดชื่อ
-## กำหนด ip
-## กำหนด template
-## กำหนด Host group
-## กำหนด tool 
+   
+## Setup Newhost
+   
+       1.กำหนดชื่อ
+   
+       2.กำหนด ip
+   
+       3.กำหนด template
+   
+       4.กำหนด Host group
+   
+       5.กำหนด tool 
+        
+       6.กำหนด macro
+   
  
 ![image](https://user-images.githubusercontent.com/87377798/211206944-b499d552-6f43-4b35-b2ae-5569bbf10762.png)
  
- ## กำหนด macro
+        
+        กำหนด macro
  
 ![image](https://user-images.githubusercontent.com/87377798/211207021-67f29eef-76ed-4e8b-b6ad-0f4d3f758e11.png)
 
