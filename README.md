@@ -6,11 +6,11 @@
 
 ***
 ## [ขั้นตอนที่ 1 - Create Ct สำหรับเตรียมติดตั้ง Server ของ Zabbix](#step1)
-## ขั้นตอนที่ 2 - Setup และ Config Zabbix
-## ขั้นตอนที่ 3 - Implement Zabbix โดนใช้ SNMP 
-## ขั้นตอนที่ 4 - Monitor อุปกรณ์
-## ขั้นตอนที่ 5 - การแจ้งเตือน (ผ่าน Outlook365) 
-## ขั้นตอนที่ 6 - การอ่านผลเครื่องมือ
+## [ขั้นตอนที่ 2 - Setup และ Config Zabbix](#step2)
+## [ขั้นตอนที่ 3 - Implement Zabbix โดนใช้ SNMP](#step3)
+## [ขั้นตอนที่ 4 - Monitor อุปกรณ์](#step4)
+## [ขั้นตอนที่ 5 - การแจ้งเตือน (ผ่าน Outlook365)](#step5) 
+## [ขั้นตอนที่ 6 - การอ่านผลเครื่องมือ](#step6)
 
  
 ***
@@ -70,7 +70,7 @@
 
 
 ***
-
+<a name="step2"></a>
 ## ขั้นตอนที่ 2 - Setup และ Config Zabbix
 
 ***
@@ -191,7 +191,7 @@ nano /etc/zabbix/zabbix_server.conf
 ![319326173_975429466907173_3869390881423672163_n](https://user-images.githubusercontent.com/87377798/211206493-7f1efc69-263c-4919-8c3e-726efdab92ca.png)
 
 ***
-
+<a name="step3"></a>
 ## ขั้นตอนที่ 3 - Implement Zabbix โดนใช้ SNMP
 
 ```
@@ -275,7 +275,7 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
 ![Screenshot 2023-01-08 231127](https://user-images.githubusercontent.com/87377798/211207101-2101acdb-fae4-42a0-ab2f-68293abfd0f8.png)
 
 ***
-
+<a name="step4"></a>
 # ขั้นตอนที่ 4 - Monitor อุปกรณ์  
  **ขั้นตอน**   
 1.เลือก **Map**
@@ -358,7 +358,7 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
 <div align="center">
    <img src="https://user-images.githubusercontent.com/119165533/211202799-92823d5c-3ee1-4c06-a083-c55573b66ba7.png" width="700">
 </div>
-  
+<a name="step5"></a>
 # ขั้นตอนที่ 5 - การแจ้งเตือน (ผ่าน Outlook365) 
 1.กดเลือก **User setting**  
 
@@ -437,7 +437,7 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
 <div align="center">
    <img src="https://user-images.githubusercontent.com/119165533/211203598-fda342a7-2aab-4a45-95df-01c0a16ee9d2.png" width="700">
 </div>
- 
+ <a name="step6"></a>
  ## ขั้นตอนที่ 6 - การอ่านผลเครื่องมือ
  
 1.Top hosts by CPU utilization
