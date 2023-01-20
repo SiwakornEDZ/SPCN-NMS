@@ -433,14 +433,21 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
 </div>
 
 5.ถ้า**Zabbix** ตรวจพบเหตุการณ์ที่คาดว่าจะเป็นปัญหา จะทำการส่งแจ้งเตือน  
-แจ้งเตื่อน3รูปแบบ  
-•	แจ้งเตือนด้วยเสียงบน **Zabbix**  
-•	แจ้งเตือนเป็นข้อความบน **Zabbix**  
-•	แจ้งเตือนทาง **Outlook365** 
+
+               แจ้งเตือน3รูปแบบ  
+   
+               •	แจ้งเตือนด้วยเสียงบน **Zabbix**  
+   
+               •	แจ้งเตือนเป็นข้อความบน **Zabbix** 
+   
+               •	แจ้งเตือนทาง **Outlook365** 
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/119165533/211203590-5293298f-1828-4ad8-9c96-c9f8a85f5628.png" width="700">
 </div>
+   
+   
+   
 <div align="center">
    <img src="https://user-images.githubusercontent.com/119165533/211203598-fda342a7-2aab-4a45-95df-01c0a16ee9d2.png" width="700">
 </div>
