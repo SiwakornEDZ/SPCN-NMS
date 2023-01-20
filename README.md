@@ -431,9 +431,24 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
    <img src="https://user-images.githubusercontent.com/110905426/213649354-880f0e1e-3a86-443d-b708-1249100b6388.png" width="700">
 </div>  
  
-  <div align="center"
+ <div align="center">
    <img src="https://user-images.githubusercontent.com/110905426/213649450-1b9bd15e-72c6-4750-9f01-e471b311288a.png" width="700">
 </div> 
+ 
+ <div align="center">
+   <img src="https://user-images.githubusercontent.com/110905426/213649828-5b4e3bfc-19c7-4de7-8f4a-58cd5e2839a2.png" width="700">
+</div> 
+ 
+  <div align="center">
+   <img src="https://user-images.githubusercontent.com/110905426/213649919-a4c52e79-a308-4b58-b094-227b94f64b6a.png" width="700">
+</div> 
+ 
+ <div align="center">
+   <img src="https://user-images.githubusercontent.com/110905426/213650023-e44b17c7-f388-4036-ba62-c9ead7f1bedb.png" width="700">
+</div> 
+ 
+
+ 
  
  
 
