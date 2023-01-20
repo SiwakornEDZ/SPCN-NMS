@@ -281,12 +281,12 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
 - **Map element**  
     
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/119165533/211202071-62412536-70c3-41b8-8329-8ba8efe8b70b.png" width="700">
+   <img src="https://user-images.githubusercontent.com/110905426/213644566-b227d301-e8ef-4136-aa14-65be370d462b.png" width="700">
 </div>
 <div align="center">
    <img src="https://user-images.githubusercontent.com/119165533/211202076-3723e66a-0be1-43d7-af66-1f85dff904c1.png" width="700">
 </div>
-
+ 
 - **Mass update elements** 
 
 <div align="center">
