@@ -297,7 +297,7 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
    - ถ้าเมื่อไหร่ที่เครื่อง **server** เรามีปัญหา จะขึ้นอักษรสีแดงหรือสีอื่นก็ได้ตามที่เรากำหนดไว้  
    
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/119165533/211202239-b3497172-670a-406a-8087-f04b7242ac7c.png" width="700">
+   <img src="https://user-images.githubusercontent.com/110905426/213643739-f43170dd-101c-43e0-b5e1-153432e36bd5.png" width="700">
 </div>
 <div align="center">
    <img src="https://user-images.githubusercontent.com/119165533/211203691-3ae1fac3-de36-411b-bc47-778fc190bfe9.jpg" width="700">
