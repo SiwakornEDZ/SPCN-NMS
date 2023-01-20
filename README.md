@@ -274,7 +274,7 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
 4.กด **add** เครื่องที่เราต้องการ  
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/119165533/211201970-a5d9438b-338b-45a0-9ae2-e6d5523441c4.png" width="700">
+  <img src="https://user-images.githubusercontent.com/110905426/213644174-94cd2543-b54e-4e56-b53d-678a66999bb7.png" width="700">
 </div>
 
 5.ตั้งค่า **Map element** และ **Mass update elements**  
