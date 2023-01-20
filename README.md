@@ -528,7 +528,7 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
  
  6.Map
  
-      วิดเจ็ตแผนที่ คุณสามารถแสดงการ monitor ของอุปกรณ์ต่างๆ ถ้าmonitor เรียบร้อยจะขึ้นปัญหาต่างๆเป็น     อักษรสีแดง
+      วิดเจ็ตแผนที่ คุณสามารถแสดงการ monitor ของอุปกรณ์ต่างๆ ถ้าmonitor เรียบร้อยจะขึ้นปัญหาต่างๆเป็นอักษรสีแดง
 
  
   <div align="center">
@@ -563,8 +563,7 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
  
 
  <div align="center">
-   <img src="https://user-images.githubusercontent.com/110905426/213748538-46803063-3923-42ff-97be-4b91155fb0d4.png
-" width="700">
+   <img src="https://user-images.githubusercontent.com/110905426/213748538-46803063-3923-42ff-97be-4b91155fb0d4.png" width="700">
 </div>
  
  
