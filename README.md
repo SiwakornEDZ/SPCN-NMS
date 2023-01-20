@@ -445,36 +445,103 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
  
 1.Top hosts by CPU utilization
  
-2.System information
+     วิดเจ็ตนี้มีวิธีสร้างตารางแบบกำหนดเองสำหรับแสดงสถานการณ์ข้อมูล ทำให้สามารถแสดงรายงานแถบความคืบ     หน้าที่เป็นประโยชน์สำหรับการวางแผนกำลังการผลิต
+    จำนวนโฮสต์สูงสุดที่สามารถแสดงได้คือ 100
+
  
-3.
  <div align="center">
    <img src="https://user-images.githubusercontent.com/110905426/213648096-67f0a9ad-e2d1-463d-b0df-b37b5a575a68.png" width="700">
 </div>
+ 
+ 
+ 
+2.Host availability
+ 
+ 
+     วิดเจ็ตความพร้อมใช้งานของโฮสต์ สถิติระดับสูงเกี่ยวกับความพร้อมใช้งานของโฮสต์จะแสดงเป็นสี่คอลัมน์/  บรรทัดที่มีสี
+ 
+ ความพร้อมของโฮสต์ในแต่ละคอลัมน์/บรรทัดจะนับดังนี้:
+ 
+           Available : โฮสต์พร้อมอินเทอร์เฟซทั้งหมด
+ 
+           Not available : โฮสต์ที่มีอย่างน้อยหนึ่งอินเทอร์เฟซไม่พร้อมใช้งาน
+ 
+           Unknown :  โฮสต์ที่ไม่รู้จักอย่างน้อยหนึ่งอินเทอร์เฟซ (ไม่มีเลย)
+ 
+           Total : รวมของโฮสต์ทั้งหมด
+
  
 <div align="center">
    <img src="https://user-images.githubusercontent.com/110905426/213649046-9487003d-c191-4c2e-9a5b-d4f195481646.png" width="700">
 </div>
  
- <div align="center">
-   <img src="https://user-images.githubusercontent.com/110905426/213649257-7a60be4f-a4b5-4799-93a7-0db7bbff877f.png" width="700">
-</div>
+ 
+ 
+ 3.Problem hosts
+ 
+       วิดเจ็ตโฮสต์ปัญหา:แสดงข้อมูลระดับสูงเกี่ยวกับความพร้อมใช้งานของโฮสต์
+ 
  
  <div align="center">
    <img src="https://user-images.githubusercontent.com/110905426/213649354-880f0e1e-3a86-443d-b708-1249100b6388.png" width="700">
-</div>  
+</div>
+ 
+ 
+  
+ 4.Current problems
+ 
+     วิตเจ็ตนี้จะแสดงโฮสต์ที่มีปัญหาอยู่
+ 
+         Time : เวลาเริ่มต้นของปัญหาจะปรากฏขึ้น
+ 
+         Info: ไอคอนข้อมูลสีเขียวจะแสดงขึ้นหากปัญหาถูกปิด
+ 
+         Host: โฮสต์ปัญหาปรากฏขึ้น
+ 
+         Problem : แสดงชื่อปัญหา
+ 
+         Ack : สถานการณ์ตอบรับของปัญหา
+ 
+         Action : ประวัติของกิจกรรมเกี่ยวกับปัญหาจะแสดงโดยใช้ไอคอนสัญลักษณ์
+ 
  
  <div align="center">
    <img src="https://user-images.githubusercontent.com/110905426/213649450-1b9bd15e-72c6-4750-9f01-e471b311288a.png" width="700">
 </div> 
  
+ 
+ 
+5.Graph
+ 
+ 
+     วิดเจ็ตกราฟนำเสนอข้อมูลที่รวบรวมโดย Zabbix โดยใช้เทคนิคการวาดภาพเวกเตอร์
+
+ ตัวอย่าง 
+ 
+      เครื่อง 172.31.83 แสดงข้อมูล Uptime Hardware
  <div align="center">
+  
    <img src="https://user-images.githubusercontent.com/110905426/213649828-5b4e3bfc-19c7-4de7-8f4a-58cd5e2839a2.png" width="700">
 </div> 
+ 
+ 
+ 
+ 6.Map
+ 
+      วิดเจ็ตแผนที่ คุณสามารถแสดงการ monitor ของอุปกรณ์ต่างๆ ถ้าmonitor เรียบร้อยจะขึ้นปัญหาต่างๆเป็น     อักษรสีแดง
+
  
   <div align="center">
    <img src="https://user-images.githubusercontent.com/110905426/213649919-a4c52e79-a308-4b58-b094-227b94f64b6a.png" width="700">
 </div> 
+ 
+ 
+ 
+ 7.Geomap
+ 
+ 
+       วิดเจ็ต Geomap แสดงโฮสต์เป็นเครื่องหมายบนแผนที่ทางภูมิศาสตร์ซึ่งเราสามารถดูได้ว่าโฮสต์แต่ละเครื่องมีตำแหน่งที่ตั้งตำแหน่งไหน
+
  
  <div align="center">
    <img src="https://user-images.githubusercontent.com/110905426/213650023-e44b17c7-f388-4036-ba62-c9ead7f1bedb.png" width="700">
