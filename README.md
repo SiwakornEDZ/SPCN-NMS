@@ -34,23 +34,40 @@
 
 ## กำหนดขนาดของ Storage ของ Server
 
-![318339087_967194557599547_4498425463763641514_n](https://user-images.githubusercontent.com/87377798/211204592-fdeeba36-8708-4637-9da7-c7bbdeb8de33.png)
-
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/87377798/211204592-fdeeba36-8708-4637-9da7-c7bbdeb8de33.png" width="700">
+</div> 
+ 
+ 
 ## กำหนดจำนวน cpu ของ Server
 
-![323583180_825957568482783_2351984305087874723_n](https://user-images.githubusercontent.com/87377798/211204625-b46a95ae-0d5e-4d4b-9e9d-4203ebf1d9ed.png)
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/87377798/211204625-b46a95ae-0d5e-4d4b-9e9d-4203ebf1d9ed.png" width="700">
+</div> 
+
+
 
 ## กำหนดจำนวน RAM และ SWAP
 
-![319030589_884204209379943_1826564098299007394_n](https://user-images.githubusercontent.com/87377798/211204690-5e2e8b57-a388-4fd7-8690-aed7099ba1ae.png)
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/87377798/211204690-5e2e8b57-a388-4fd7-8690-aed7099ba1ae.png" width="700">
+</div> 
+
+
 
 ## กำหนด address ipv4 
 
-![320148166_836777634097010_8849781503976518867_n](https://user-images.githubusercontent.com/87377798/211204720-91cba0dc-971f-4458-ae1c-9932a58b07bb.png)
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/87377798/211204720-91cba0dc-971f-4458-ae1c-9932a58b07bb.png" width="700">
+</div> 
+
 
 ## กำหนด DNS 
 
-![321966742_675207904077387_8678904671529243397_n](https://user-images.githubusercontent.com/87377798/211204860-435ef51a-0ae8-40a1-a67a-bb0cfd25fb9f.png)
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/87377798/211204860-435ef51a-0ae8-40a1-a67a-bb0cfd25fb9f.png" width="700">
+</div> 
+
 
 ***
 
