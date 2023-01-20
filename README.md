@@ -547,7 +547,25 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
    <img src="https://user-images.githubusercontent.com/110905426/213650023-e44b17c7-f388-4036-ba62-c9ead7f1bedb.png" width="700">
 </div> 
  
+ 8.System information
+ 
+        รายงานข้อมูลระบบสรุปของเซิร์ฟเวอร์ที่สำคัญละข้อมูลของระบบจะขึ้น
+ 
+ ตัวอย่าง
+     
+         Parameter : Zabbix server is running
+                     
+         Value     : สถานะของเซิร์ฟเวอร์ Zabbix: Yes - เซิร์ฟเวอร์กำลังทำงานอยู่ No - เซิร์ฟเวอร์ไม่ทำงาน
+ 
+         Details   : ตำแหน่งและพอร์ตของเซิร์ฟเวอร์ Zabbix (localhost:10051)
+        
 
+ 
+
+ <div align="center">
+   <img src="https://user-images.githubusercontent.com/110905426/213748538-46803063-3923-42ff-97be-4b91155fb0d4.png
+" width="700">
+</div>
  
  
  
