@@ -5,7 +5,7 @@
 # การติดตั้ง การใช้งาน และการอ่านผลของเครื่องมือ Zabbix
 
 ***
-## ขั้นตอนที่ 1 - Create Ct สำหรับเตรียมติดตั้ง Server ของ Zabbix(#step1)
+## [ขั้นตอนที่ 1 - Create Ct สำหรับเตรียมติดตั้ง Server ของ Zabbix](#step1)
 ## ขั้นตอนที่ 2 - Setup และ Config Zabbix
 ## ขั้นตอนที่ 3 - Implement Zabbix โดนใช้ SNMP 
 ## ขั้นตอนที่ 4 - Monitor อุปกรณ์
