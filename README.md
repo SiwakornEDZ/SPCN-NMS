@@ -19,11 +19,18 @@
 
 ## กำหนดชื่อ กำหนดรหัสผ่าน และSSH KEY 
 
-![323349242_3367566253515291_5797434817281545862_n](https://user-images.githubusercontent.com/87377798/211203719-2ae05f21-bd9e-4a69-baf5-f57691d327ea.png)
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/87377798/211203719-2ae05f21-bd9e-4a69-baf5-f57691d327ea.png" width="700">
+</div> 
+ 
 
 ## เลือก os ที่ต้องการ
+
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/87377798/211204548-b63faece-9c4a-4e44-979d-07ad4cfb844b.png" width="700">
+</div> 
  
-![318014612_1378125582943631_2714223770837493793_n](https://user-images.githubusercontent.com/87377798/211204548-b63faece-9c4a-4e44-979d-07ad4cfb844b.png)
+
 
 ## กำหนดขนาดของ Storage ของ Server
 
