@@ -439,6 +439,12 @@ snmpwalk -v2c -c ชื่อCommunity ipเครื่อง
 </div>
  
  ## ขั้นตอนที่ 6 - การอ่านผลเครื่องมือ
+ 
+1.Top hosts by CPU utilization
+ 
+2.System information
+ 
+3.
  <div align="center">
    <img src="https://user-images.githubusercontent.com/110905426/213648096-67f0a9ad-e2d1-463d-b0df-b37b5a575a68.png" width="700">
 </div>
